@@ -50,7 +50,7 @@ Thank you for checking out my profile!
 
 <h3 align="left">Certifications:</h3>
 <p align="left">
-    <a href="https://www.comptia.org/certifications/security" target="_blank"> <img src="https://www.ripplesoftware.ca/wp-content/uploads/2019/11/securituy-300x204.png" alt="html5"/> </a>
+    <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=93CBC15CC3990558A0861848D3F8F384E3E171A35484599435F28AE59CD42B65" target="_blank"> <img src="OCPJSE17.jpg" alt="OCP"/> </a>
 </p>
 
 ---
